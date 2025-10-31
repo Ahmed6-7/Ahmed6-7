@@ -1,7 +1,12 @@
-<!-- Banner -->
+<!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=200&section=header&text=Pir%20Ahmed%20Mehmood&fontSize=45&fontColor=ffffff"/>
 
 <h3 align="center">A Passionate Frontend Developer From Pakistan 🇵🇰</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1e90ff&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Learner;Future+MERN+Stack+Developer;Always+Learning+New+Things" />
+</p>
 
 ---
 
@@ -30,19 +35,15 @@
 ---
 
 ## 🛠️ Skills & Tools
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31a8ff?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-ff9a00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
----
-
-## 👨‍🎨 About Me
-I’m a frontend developer who loves converting creative ideas into real user experiences.  
-I build projects daily to sharpen my skills and explore new techniques.
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31a8ff?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-ff9a00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+</p>
 
 ---
 
@@ -63,14 +64,14 @@ I build projects daily to sharpen my skills and explore new techniques.
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed6-7&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ahmed6-7&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake 
+## 🌊 Contribution Activity Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmed6-7/ahmed6-7/output/snake.svg" alt="snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed6-7&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
