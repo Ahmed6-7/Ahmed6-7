@@ -68,7 +68,7 @@ I build projects daily to sharpen my skills and explore new techniques.
 
 ---
 
-## 🐍 Contribution Snake (Will Show After Setup)
+## 🐍 Contribution Snake 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ahmed6-7/ahmed6-7/output/snake.svg" alt="snake animation"/>
 </p>
