@@ -77,7 +77,6 @@ I build projects daily to sharpen my skills and explore new techniques.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=150&section=footer"/>
 
-## Hi there 👋
 
 <!--
 **Ahmed6-7/ahmed6-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
