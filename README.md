@@ -1,70 +1,83 @@
-<h1 align="center">👋 Hi, I'm Pir Ahmed Mehmood</h1>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=200&section=header&text=Pir%20Ahmed%20Mehmood&fontSize=45&fontColor=ffffff"/>
 
+<h3 align="center">A Passionate Frontend Developer From Pakistan 🇵🇰</h3>
+
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1e90ff&center=true&vCenter=true&width=650&lines=Frontend+Developer;Future+Modern+Web+%26+App+Developer;JavaScript+Learner;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1e90ff&center=true&vCenter=true&width=600&lines=Frontend+Developer;Future+Modern+Web+%26+App+Developer;JavaScript+Learner;Always+Improving" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I am a **Frontend Developer** and currently working towards becoming a **Modern Web & Application Developer**.  
-I practice daily and love building UI that looks clean and professional.
+I am a **Frontend Developer** currently working towards becoming a **Modern Web & Application Developer**.  
+I enjoy learning every day and love building clean, modern & smooth UI.
 
 ---
 
-## 🚀 Skills & Tools
-
-| Category | Technologies |
-|--------|-------------|
-| **Languages** | HTML, CSS, JavaScript |
-| **Frontend Framework** | (Soon) React.js |
-| **Styling** | Bootstrap, Tailwind CSS |
-| **Tools** | Git, GitHub, VS Code |
-| **Learning Next** | React + Modern Web App Development |
+## 🛠️ Skills & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
 ## 📂 Featured Projects
-| Project Name | Description | Live Demo |
-|------------|-------------|-----------|
-| Youtube Clone UI | Frontend Practice Project | *(Add link if uploaded)* |
-| Portfolio Website | Personal Portfolio Design | *(Add link if uploaded)* |
-| Calculator / To-Do App | JavaScript Practice Apps | *(Add link if uploaded)* |
+| Project | Description | Live Demo |
+|--------|-------------|-----------|
+| Youtube UI Clone | Frontend Practice Project | *([Youtube UI Clone:](https://youtube-clone-assignment1.netlify.app/))* |
+| Personal Portfolio | My Own Portfolio | *([Personal Portfolio:](https://ahmed6-7.github.io/Myportfolio/))* |
+| Calculator / To-Do App | JavaScript Practice Apps | *([To-Do App:](https://ahmed6-7.github.io/To-Do-List/))* |
 
-> Agar live project host nahi kiye abhi tak, main tumhari help karke **host bhi karwa doonga** ⚡
+> Chaho to main **tumhare projects ke liye live hosting bhi karwa deta hoon** ⚡
 
 ---
 
-## 🔥 GitHub Stats
-
+## 🏆 GitHub Trophy
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmed6-7&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed6-7&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed6-7&theme=dracula&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmed6-7&show_icons=true&theme=tokyonight" height="165px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed6-7&layout=compact&theme=tokyonight" height="165px"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmed6-7&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed6-7&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
 <p align="left">
-<a href="https://github.com/ahmed6-7"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pir-ahmed-mehmood-6249b9389/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
+<a href="https://www.facebook.com/profile.php?id=61582153967976" target="_blank"><img src="https://img.icons8.com/color/48/facebook-new.png" width="40"/></a>
+<a href="https://www.instagram.com/pirahmedmehmood1/" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/></a>
+<a href="mailto:pirahmedmehmood014@gmail.com"><img src="https://img.icons8.com/fluency/48/email-open.png" width="40"/></a>
 </p>
 
 ---
 
-### ✨ “Keep Learning, Keep Building!”
-
-<!--
-**Ahmed6-7/ahmed6-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=150&section=footer"/>
