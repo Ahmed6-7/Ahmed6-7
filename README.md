@@ -9,7 +9,7 @@
 **Modern Web & Application Development (Saylani Mass IT Training)**
 
 ### 👨‍💻 Projects Portfolio
-👉 https://github.com/ahmed6-7?tab=repositories
+🔗 https://github.com/ahmed6-7?tab=repositories
 
 ### 💬 Ask Me About
 **HTML • CSS • JavaScript**
@@ -20,7 +20,7 @@
 ---
 
 ## 🌐 Connect With Me
-<p>
+<p align="left">
 <a href="https://www.linkedin.com/in/pir-ahmed-mehmood-6249b9389/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
 <a href="https://www.facebook.com/profile.php?id=61582153967976" target="_blank"><img src="https://img.icons8.com/color/48/facebook-new.png" width="40"/></a>
 <a href="https://www.instagram.com/pirahmedmehmood1/" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/></a>
@@ -68,15 +68,14 @@ I build projects daily to sharpen my skills and explore new techniques.
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (Will Show After Setup)
 <p align="center">
-![snake gif](https://raw.githubusercontent.com/ahmed6-7/ahmed6-7/output/snake.svg)
-
+  <img src="https://raw.githubusercontent.com/ahmed6-7/ahmed6-7/output/snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=150&section=footer"/>
-
 
 <!--
 **Ahmed6-7/ahmed6-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
