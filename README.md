@@ -70,8 +70,8 @@ I build projects daily to sharpen my skills and explore new techniques.
 
 ## 🐍 Contribution Snake
 <p align="center">
-  [<img src="https://raw.githubusercontent.com/ahmed6-7/ahmed6-7/output/github-contribution-grid-snake.svg" />
-</p>](https://github.com/Ahmed6-7/ahmed6-7/actions/runs/18971560144)
+![snake gif](https://raw.githubusercontent.com/ahmed6-7/ahmed6-7/output/snake.svg)
+
 
 ---
 
